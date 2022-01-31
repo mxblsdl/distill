@@ -1,0 +1,22 @@
+name: "distill_site"
+title: "Mxblsdl on the Web"
+description: |
+  Max on the Web
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Work"
+      href: Work.html
+    - text: "Past Projects"
+      href: past_projects.html
+    - text: "Posts"
+      menu: 
+      - text: "R2D3"
+        href: r2d3.html
+    - icon: fab fa-github
+      href: https://github.com/Mxblsdl
+output: distill::distill_article
