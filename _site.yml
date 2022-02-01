@@ -13,8 +13,6 @@ navbar:
       href: shiny-server.html
     - text: "Raspberry"
       href: rpi.html
-    - text: "Work"
-      href: Work.html
     - text: "Past Projects"
       href: past_projects.html
     - text: "Posts"

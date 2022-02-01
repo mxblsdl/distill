@@ -17,5 +17,5 @@ knitr::opts_chunk$set(echo = FALSE)
 # TODO 
 upload resume
 
-
+[Resume](www/index.html)
 

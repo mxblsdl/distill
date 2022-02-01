@@ -1,0 +1,203 @@
+---
+title: "Max Blasdel"
+author: Max Blasdel
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    # Run `toPDF.R` to generate pdf of this document
+---
+<style>
+#title {
+  margin: auto;
+  width: 50%;
+}
+</style>
+
+
+# Aside
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> <maxblasdel@gmail.com>
+-   <i class="fa fa-github"></i> [github.com/mxblsdl](https://github.com/mxblsdl)
+-   <i class="fa fa-globe"></i> [website](https://www.maxblasdel.com)
+-   <i class="fa fa-phone"></i> 541-908-1669
+
+## Skills {#skills}
+
+-   R/Python
+
+-   Data visualization with R Shiny, ggplot, Power BI
+
+-   SQL Server/PostgreSQL
+
+-   Geospatial analysis with R
+
+-   Remote development with Linux/Unix
+
+-   Databricks
+
+-   Snowflake
+
+-   Development with Github/Gitlab
+
+-   HTML, CSS, Javascript and webpage structure
+
+## Disclaimer {#disclaimer}
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Max Blasdel {#title}
+
+<!-- ### Data Analyst {#job} -->
+
+## Professional Experience {data-icon="user-tie"}
+
+### BI Engineer
+
+Wavicle Data Solutions
+
+Remote
+
+2021 - Present
+
+- Update, optimize, and document large R script codebase 
+- Maintain and debug R Shiny application 
+
+### Data Analyst
+
+CLEAResult
+
+Portland, OR
+
+2021
+
+-   Analysis and insights for energy related projects
+-   Create and maintain dashboards in Power BI
+-   Development of R packages for internal use
+-   ETL processes in Alteryx and database maintenance
+
+### Analyst
+
+Cadmus Group
+
+Portland, OR
+
+2020 - 2021
+
+-   Conduct analysis and automate tasks with R
+-   Development of R Package for model applications
+-   Development and maintenance of Shiny applications
+-   Energy efficiency program evaluations and potential analysis
+-   Perform cost effectiveness analysis on utility programs
+
+### Research Assistant
+
+Schatz Energy Research Center
+
+Arcata, CA
+
+2019 - 2020
+
+-   Use R to conduct spatial and non-spatial analysis for clean energy projects
+-   Write and maintain R code for parallel computing on large data
+-   Analyze wind energy generation data
+-   Worked and communicated across multiple teams and projects
+
+### Graduate Research Assistant
+
+Schatz Energy Research Center
+
+Arcata, CA
+
+2017 - 2019
+
+-   Managed raster and tabular databases in ArcMap and R
+-   Contributed to methods for published framework document
+-   Developed a JavaScript web tool to visualize project results
+
+## Certifications {data-cicon="certificate"}
+
+### AWS Solutions Architect - Associate 
+
+N/A
+
+Global
+
+2022 - 2025
+
+## Personal Projects {data-icon="code"}
+
+### Development Work
+
+N/A
+
+Portland, OR
+
+Current
+
+-   Setup and maintenance of personal Shiny Server hosting apps and utilizing git webhooks
+-   Integrating Python and JavaScript into Shiny apps through R
+-   Python programming and automation with Raspberry PI
+
+## Contract Work {data-icon="laptop"}
+
+### GIS/Data Analyst
+
+N/A
+
+Arcata, CA
+
+2018 - 2019
+
+-   Built spatial R model for India cooking emissions study
+-   Joined and cleaned large polygon fie and found solutions to data irregularities
+-   Created graphs to convey results from this work in an upcoming publication
+
+### GIS/Data Analyst
+
+Sierra Institute of California
+
+Arcata, CA
+
+2019
+
+-   Utilized R to combine public datasets and extract information on logging residues
+-   Prepared report ready mapping graphics to display data results
+
+## Education {data-icon="university" data-concise="true"}
+
+### Oregon State University
+
+B.S. Natural Resource Management
+
+Corvallis, OR
+
+2014
+
+Graduated Summa Cum Laude
+
+### Portland State University
+
+Graduate Certificate in GIS
+
+Portland, OR
+
+2015
+
+### Humboldt State University
+
+M.S. Environmental and Natural Resource Sciences
+
+Arcata, CA
+
+2019
+
+Thesis: Decomposition of Woody Residue in the Context of Biomass Energy Utilization
+
+## Publications
+- [Fingerman, K., Anderson, D., and Blasdel, M. (2019). Moving Beyond Incineration: Putting Residues from California Forest Management and Restoration to Good Use. Sierra Club of California. San Francisco, CA](https://www.sierraclub.org/sites/www.sierraclub.org/files/sce/sierra-club-california/PDFs/SCC_MovingBeyondIncineration.pdf)
