@@ -1,7 +1,7 @@
 ---
 title: "Current Work and CV"
 description: |
-  See attached resume.
+  See attached resume
 author:
   - name: Max Blasdel
     affiliation: Wavicle Data Solutions

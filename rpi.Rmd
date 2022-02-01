@@ -1,0 +1,30 @@
+---
+title: "Raspberry Pi"
+description: |
+  A couple pi projects
+author:
+  - name: mxblsdl
+    url: {}
+date: "`r format(Sys.Date(), '%b %d %Y')`"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I became interested in Raspberry Pis a while back which has been another great way to learn more about remote development, python, and the subtleties of operating systems. It's also interesting to work with hardware rather than always working with software. 
+
+My first RPI project was to setup a [Retropie](https://retropie.org.uk/) gaming system to play old Super Nintendo games. This was great for a bit but the real fun for me was getting everything setup and working, not playing the games.
+
+A couple of projects that have been fun:
+
+- A [camera that takes a picture of my front yard everyday](https://github.com/mxblsdl/dl_pictures) which I stitch together into a movie.
+  - Then automatically upload to Youtube (coming soon)
+
+- A [temperature sensor and accompanying LED sensor display](https://github.com/mxblsdl/dht).
+  - This pushes to a database which I read and display the data through a Shiny app.
+

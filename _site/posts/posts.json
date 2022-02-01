@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-01-30-shiny-server/",
+    "title": "Shiny Server",
+    "description": "<a href=\"http://167.71.158.245:3838/main/\">Link to Apps<\/a>",
+    "author": [
+      {
+        "name": "mxblsdl",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-30",
+    "categories": [],
+    "contents": "\nAs an R user who also became interested in web development, I naturally gravitated towards R Shiny. I set up my own Shiny Server where I am able to make hobby apps or test proof of concept ideas. Many of the apps never really get finished, but for me the creation and problem solving aspect is the most enjoyable part.\nMy Shiny Server is hosted on a Digital Ocean VM. Setting this up and maintaining the server was a great learning experience in itself and showed me the power of what a minimal cloud server can do.\nI run DO’s lowest power option for $5 a month which is plenty for hosting Shiny Server as well as a couple of databases. In a world of managed cloud computing options its nice to know I am able to set up and run projects with only a linux terminal.\n# My Shiny Server\nPlease excuse the raw IP address. I haven’t gotten around to making a proper DNS yet.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-01-30T21:24:15-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/",
     "title": "Styleized Streets",
     "description": "A short description of the post.",

@@ -9,6 +9,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Shiny Server"
+      href: shiny-server.html
+    - text: "Raspberry"
+      href: rpi.html
     - text: "Work"
       href: Work.html
     - text: "Past Projects"
