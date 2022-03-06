@@ -22,6 +22,6 @@ My Shiny Server is hosted on a [Digital Ocean](https://www.digitalocean.com/) VM
 
 I run DO's lowest power option for $5 a month which is plenty for hosting Shiny Server as well as a couple of databases. In a world of managed cloud computing options its nice to know I am able to set up and run projects with only a linux terminal.
 
-[# My Shiny Server](http://167.71.158.245:3838/main/){target="_blank"}
+[# My Shiny Server](http://shiny-max.com){target="_blank"}
 
 *Please excuse the raw IP address. I haven't gotten around to making a proper DNS yet.*
