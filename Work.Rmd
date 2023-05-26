@@ -3,9 +3,9 @@ title: "Current Work and CV"
 description: |
   See attached resume
 author:
-  - name: Max Blasdel
-    affiliation: Wavicle Data Solutions
-    affiliation_url: https://wavicledata.com
+  - name: "Max Blasdel"
+    affiliation: "Kaiser Permanente"
+    affiliation_url: https://kp.org
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---

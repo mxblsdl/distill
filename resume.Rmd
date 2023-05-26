@@ -1,6 +1,6 @@
 ---
 title: "Max Blasdel"
-author: Max Blasdel
+author: "Max Blasdel"
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:

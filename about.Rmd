@@ -14,11 +14,9 @@ output:
   postcards::trestles
 ---
  
-BI Engineer at Wavicle Data Solutions. Joined Wavicle to work as a R/R Shiny Developer for a large modeling project. Also enjoy coding in Python and expanding my knowledge of cloud architecture. I'm happiest at work when I spend time figuring out elegant solutions to technical problems.
+Currently working as a Data Reporting and Analytics Consultant at Kaiser Permanente. I work with national provider data across all of the regions that KP operates. My role is cross functional with projects in analytics, web development, data engineering, process automation, and IT troubleshooting. I work with R/Python/SQL most of the day. I'm most excited by learning and building new things. I thrive with POC projects and getting new ideas off the ground.
 
 My background is environmental sciences / renewable energy / spatial data modeling. I most recently worked in energy efficiency consulting where I interacted with energy data with various tools.
-
-I'm most excited by learning and building new things. I enjoy working with raspberry pis in my free time and creating things with hardware as opposed to software.
 
 Outside of work I am also a dad, which takes up much of my free time. I like to ride my bike through the city streets whenever I can.
 
